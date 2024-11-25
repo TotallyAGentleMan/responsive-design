@@ -1,0 +1,16 @@
+.linea {
+    width: 100%;
+    height: 6px;
+    background-color: gold; 
+    margin: 6px 0px;
+}
+body{
+    text-align: center;
+}
+#daGames img{
+    height: 400px;
+    width: 400px;
+}
+.carousel-inner .item a img{
+    display: inline !important;
+}
